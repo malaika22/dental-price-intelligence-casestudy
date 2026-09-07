@@ -1,0 +1,4 @@
+.build/
+preview*.html
+preview*.png
+.DS_Store
