@@ -122,8 +122,6 @@ A buyer can see each page considered and why it was accepted or thrown out. A ch
 
 ## Let's work together
 
-I build practical AI-accelerated systems — the kind that have to be right, not just impressive.
+I build bespoke, high-craft web experiences — AI-accelerated, human-designed.
 
-📫 [X / @malaikaafridi9](https://x.com/malaikaafridi9) · **DMs open.**
-
-<sub>Production source code and all client data are private. Visuals in this repository were generated for illustration and contain no real order, pricing or supplier information.</sub>
+🌐 **Portfolio & contact → [malaikaafridi.com](https://www.malaikaafridi.com)**
